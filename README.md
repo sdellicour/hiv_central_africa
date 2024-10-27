@@ -1,1 +1,1 @@
-This repo gathers BEAST XML files and SI files related to our study entitled "Distinct rates and patterns of spread of the major HIV-1 subtypes in Central and East Africa" (Faria *et al**. 2019, *PLoS Pathogens*).
+This repo gathers BEAST XML files and Supplementary Information (SI) files related to our study entitled "**Distinct rates and patterns of spread of the major HIV-1 subtypes in Central and East Africa**" ([Faria *et al*. 2019](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007976), *PLoS Pathogens*).
